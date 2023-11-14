@@ -1,4 +1,6 @@
 
+<img src="https://raw.githubusercontent.com/P2PSci/P2PSci/main/images/p2p_3_1_wtB.png"/>
+
 [![](images/p2p_3_1_wtB.png)](https://github.com/P2PSci/P2PSci)
 [![](images/socmesh_flag.png)](https://github.com/social-mesh/social-mesh)
 [![](images/pz1B.png)](https://github.com/podzero/podzero)
